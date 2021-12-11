@@ -1,4 +1,4 @@
-dataset/
+dataset/*
 
 
 !dataset/Readme.md
